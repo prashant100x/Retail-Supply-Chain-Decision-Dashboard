@@ -8,17 +8,17 @@ The objective is to support supply chain managers in identifying products requir
 ---
 
 ## 🧰 Tools Used
-- Microsoft Excel
-- Power BI
+- Microsoft Excel  
+- Power BI  
 
 ---
 
 ## 📊 Dashboard Features
-- Estimated Revenue Loss KPI
-- Brand Contribution to Revenue Risk
-- Inventory Availability Analysis
-- Price Impact on Revenue Loss
-- Reorder Decision Panel
+- Estimated Revenue Loss KPI  
+- Brand Contribution to Revenue Risk  
+- Inventory Availability Analysis  
+- Price Impact on Revenue Loss  
+- Reorder Decision Panel  
 
 ---
 
@@ -29,4 +29,4 @@ Helps supply chain managers make proactive reorder decisions by identifying prod
 
 ## 📷 Dashboard Preview
 
-![Dashboard](App_Prototype.png)
+![Dashboard](App%20Prototype.png)
