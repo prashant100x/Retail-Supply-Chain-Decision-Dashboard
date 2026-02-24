@@ -29,4 +29,4 @@ Helps supply chain managers make proactive reorder decisions by identifying prod
 
 ## 📷 Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](App Prototype.png)
